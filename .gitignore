@@ -1,0 +1,63 @@
+node_modules
+
+/.cache
+/build
+.env
+
+# Node.js dependencies
+/.pnp
+.pnp.js
+
+# Remix build files
+/build
+/public/build
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Miscellaneous
+*.log
+*.lock
+*.cache
+
+# Dependency directories
+/.turbo
+/.parcel-cache
+
+# Build artifact files
+/dist
+/out
+
+# Static file cache
+/.next/cache
+
+# Others
+*.swp
+*.swo
+*.bak
+
+# Playwright screenshots
+# /screenshots
+
+# Playwright test results
+# /test-results
